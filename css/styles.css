@@ -21,6 +21,10 @@ header {
 	background: #FFB703;
 }
 
+.geel {
+		background: #FFB703;
+}
+
 .paddinggroot {
 	padding-top: 70px;
 	padding-bottom: 70px;
@@ -53,7 +57,7 @@ color: #023047;
 .carousel {
 	margin: auto;
 	align-content: center;
-	width: 85%;
+	width: 80%;
 }
 
 .buttoneen {

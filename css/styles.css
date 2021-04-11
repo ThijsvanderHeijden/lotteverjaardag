@@ -55,15 +55,16 @@ color: #023047;
 
 .buttoneen {
 	background: #FFB703;
-	color: #023047;
+	color: white;
 }
 
 .buttoneen:hover {
 	background: #FB8500;
-	color: #023047;
+	color: white;
 }
 
 .footer {
+	color: white;
 	padding-top: 20px;
 	padding-bottom: 1px;
 	background: #FB8500;

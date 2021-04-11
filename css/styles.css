@@ -22,12 +22,16 @@ header {
 }
 
 .paddinggroot {
-	padding: 90px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.titel {
+	color: #023047;
 }
 
 .start { 
-padding-left: 150px;
-padding-right: 150px;
+width: 80%;
 color: #023047;
 }
 /** pagina 1 **/

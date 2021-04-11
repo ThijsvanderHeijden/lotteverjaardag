@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+* { 
+	text-align: center;
+	margin: 0px;
+    padding: 0px;
+	border: 0px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+header { 
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	background-image: url("../images/confetti.gif");
+	padding: 40px;
+	margin-bottom: 5px;
+}
+
+/** pagina 1 **/
+.navbar {
+	color: #8338EC;
+	background: #FFB703;
+}
+
+.paddinggroot {
+	padding: 90px;
+}
+
+.start { 
+padding-left: 150px;
+padding-right: 150px;
+color: #023047;
+}
+/** pagina 1 **/
+
+/** pagina 2 **/
+.navbartwee {
+	color: #8338EC;
+	background: #FFB703;
+}
+
+.footertwee {
+	padding-top: 20px;
+	padding-bottom: 1px;
+	background: #FFB703;
+}
+
+/** pagina 2 **/
+
+.carousel {
+	padding: 30px;
+	margin: auto;
+	align-content: center;
+	width: 80%;
+}
+
+.buttoneen {
+	background: #FFB703;
+	color: #023047;
+}
+
+.buttoneen:hover {
+	background: #FB8500;
+	color: #023047;
+}
+
+.footer {
+	padding-top: 20px;
+	padding-bottom: 1px;
+	background: #FB8500;
+}

@@ -76,3 +76,18 @@ color: #023047;
 	padding-bottom: 1px;
 	background: #FB8500;
 }
+
+.paddingklein {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.bovenkant {
+	padding-top: 60px;
+	padding-bottom: 50px;
+	font-size: 50px;
+}
+
+.tekst {
+	padding-bottom: 10px;
+}

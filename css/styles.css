@@ -30,6 +30,11 @@ header {
 	padding-bottom: 70px;
 }
 
+.paddingvraag {
+	padding-top: 70px;
+	padding-bottom: 5px;
+}
+
 .titel {
 	color: #023047;
 }
@@ -70,6 +75,16 @@ color: #023047;
 	color: white;
 }
 
+.buttontwee {
+	background: #FFB703;
+	color: white;
+}
+
+.buttontwee:hover {
+	background: white;
+	color: #FB8500;
+}
+
 .footer {
 	color: white;
 	padding-top: 20px;
@@ -94,4 +109,9 @@ color: #023047;
 
 .fotoquiz {
 	width: 50%;
+}
+
+.quiz2 {
+	background: #FB8500;
+	color: white;
 }

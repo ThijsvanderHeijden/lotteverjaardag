@@ -95,6 +95,31 @@ color: #023047;
 	color: white;
 }
 
+.buttonvier {
+	padding: 20px;
+	background: #FFB703;;
+	color: #FFB703;
+}
+
+.buttonvier:hover {
+	padding: 20px;
+	background: #FFB703;;
+	color: #FFB703;
+}
+
+.buttonvijf {
+	padding: 30px;
+	background: #FFB703;;
+	color: #FFB703;
+}
+
+.buttonvijf:hover {
+	padding: 30px;
+	background: #FFB703;;
+	color: #FFB703;
+}
+
+
 
 .footer {
 	color: white;
@@ -141,5 +166,10 @@ color: #023047;
 }
 
 .kado {
-	padding-top: 30px;
+	padding-top: 50px;
+}
+
+.verstopt {
+	padding-top: 250px;
+	padding-bottom: 150px;
 }

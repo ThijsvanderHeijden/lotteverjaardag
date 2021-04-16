@@ -85,6 +85,17 @@ color: #023047;
 	color: #FB8500;
 }
 
+.buttondrie {
+	background: white;
+	color: #FB8500;
+}
+
+.buttondrie:hover {
+	background: #FB8500;
+	color: white;
+}
+
+
 .footer {
 	color: white;
 	padding-top: 20px;

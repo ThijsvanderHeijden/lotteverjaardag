@@ -194,3 +194,13 @@ color: #023047;
 .eind {
 	padding-bottom: 35px;
 }
+
+.chrisy{
+transform:rotate(270deg);  
+padding-bottom: 30px;
+}
+
+.paddingchristy{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
